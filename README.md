@@ -1,6 +1,8 @@
 # EventDriven
 
-This project is made to illustrate how to setup rabbitmq and 2 microservices, in conjuncture with the report related to the project.
+This project is made to illustrate how to setup rabbitmq and 2 microservices in Kubernetes, to illustrate how to setup Kubernetes and reason for the infastructure setup a report has been made.
+
+The report will first describe the monolith architecture and how to convert this infastructure into microservices and finally add Event-driven on top of this.
 
 ---
 
